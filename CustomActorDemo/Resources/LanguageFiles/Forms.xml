@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<languages>
+  <language name="English" id="en">
+    <episerver>
+      <forms>
+        <submissionactors>
+          <CustomActorDemo.Actors.CustomActor>
+            <displayname>Custom Actor</displayname>
+          </CustomActorDemo.Actors.CustomActor>
+        </submissionactors>
+      </forms>
+    </episerver>
+  </language>
+</languages>
